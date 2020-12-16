@@ -1,2 +1,1 @@
-# data-structure-heap
-Heap
+# Heap
